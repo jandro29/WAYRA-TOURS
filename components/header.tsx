@@ -24,7 +24,6 @@ export function Header() {
           </div>
           <div className="hidden sm:block">
             <span className="text-white font-bold text-lg block">Wayra Tours</span>
-            <span className="text-primary text-xs">Vive Lambayeque</span>
           </div>
         </div>
 
