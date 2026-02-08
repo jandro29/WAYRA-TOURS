@@ -12,10 +12,10 @@ export function HeroSection() {
   return (
     <div className="relative h-screen w-full overflow-hidden">
       <Image
-        src="/lambayeque-hero.jpg"
+        src="/wayatour.png"
         alt="Lambayeque scenic landscape"
         fill
-        className="object-cover"
+        className="object-none"
         priority
       />
 
@@ -29,8 +29,8 @@ export function HeroSection() {
             <span className="text-primary font-semibold">Wayra Tours</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-white text-balance leading-tight">
-            Vive
-            <span className="block text-primary">Lambayeque</span>
+            Full Day
+            <span className="block text-primary">Wayra Tours</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-100 text-balance">
             Siente la historia. Conecta con la cultura, naturaleza e identidad del Perú
