@@ -14,37 +14,37 @@ interface GalleryImage {
 const galleryImages: GalleryImage[] = [
   {
     id: 1,
-    src: '/lambayeque-hero.jpg',
+    src: '/image-1.jpeg',
     title: 'Paisaje Desértico',
     description: 'Las majestuosas vistas del desierto de Lambayeque al atardecer',
   },
   {
     id: 2,
-    src: '/museo-sipan.jpg',
+    src: '/image-2.jpeg',
     title: 'Museo Tumbas Reales de Sipán',
     description: 'Descubre los tesoros del señor Moche y la civilización ancestral',
   },
   {
     id: 3,
-    src: '/piramides.jpg',
+    src: '/image-3.jpeg',
     title: 'Pirámides de Moche',
     description: 'Estructuras arqueológicas que revelan secretos de hace 2000 años',
   },
   {
     id: 4,
-    src: '/playa-lambayeque.jpg',
+    src: '/image-4.jpeg',
     title: 'Playas Paradisíacas',
     description: 'Relájate en las hermosas playas costeras de Lambayeque',
   },
   {
     id: 5,
-    src: '/arquitectura-colonial.jpg',
+    src: '/image-5.jpeg',
     title: 'Arquitectura Colonial',
     description: 'Recorre la historia en los edificios históricos del centro',
   },
   {
     id: 6,
-    src: '/cultura-local.jpg',
+    src: '/image-6.jpeg',
     title: 'Cultura Local',
     description: 'Vive la experiencia auténtica de la cultura lambayecana',
   },
